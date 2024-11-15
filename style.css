@@ -1,0 +1,198 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    margin:0;
+    background-color: rgba(189, 254, 247, 0.806);
+}
+main{
+    margin: 10px;
+}
+nav{
+    background-color: #007ACC;
+    height: 50px;
+   text-align: center;
+   padding: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   
+}
+.logo1{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+}
+.lien{
+    color: aliceblue;
+    font-size: vh;
+    text-decoration: none;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+.photo{
+    height: 100px;
+    width: 150px;
+}
+.articles{
+    
+    background-color: rgb(11, 132, 91);
+    margin: 10px;
+    
+}
+.wrapper{
+    margin: 10px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;    
+}
+
+.un{
+    height: 200px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 10px;
+    
+}
+.deux{
+    height: 200px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 10px;
+}
+.trois{
+    height: 200px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 10px;
+}
+.quatre{
+    height: 200px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 10px;
+}
+.cinq{
+    height: 200px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 10px;
+}
+.six{
+    height: 200px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 10px;
+}
+.sept{
+    height: 200px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 10px;
+}
+.huit{
+    height: 200px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 10px;
+}
+.neuf{
+    height: 200px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 10px;
+}
+.dix{
+    height: 200px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 10px;
+}
+
+form{
+    margin:  20%;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid green;
+
+}
+
+
+.commentForm{
+    height: 355px;
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-evenly;
+    border: 40px solid rgb(55, 214, 177);
+    border-radius: 20px;
+    margin: auto;
+    
+}
+.decoForm{
+    background-color: rgb(100, 251, 201);
+    margin: 70px;
+    padding:0 0 0 25px;
+    border: 2px solid green;
+    border-radius: 20px;
+
+}
+.aNom{
+    margin: 0 30px 0 0;
+}
+.aSuje{
+    margin: 0 50px 0 0; 
+}
+
+.grille{
+    display:flex;
+justify-content: center;
+flex-direction: column;}
+
+footer{
+    /* background-color: #007ACC;
+    height: 50px; */
+
+}
+
+
+
